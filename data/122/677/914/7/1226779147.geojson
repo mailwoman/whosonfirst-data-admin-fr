@@ -46,10 +46,10 @@
     "wof:geomhash":"4e17685d17c6bb49d9c642ee8197a9af",
     "wof:hierarchy":[
         {
+            "borough_id":1360698467,
             "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072499,
-            "localadmin_id":404428843,
             "locality_id":1226779147,
             "macrocounty_id":404228029,
             "macroregion_id":404227445,

@@ -40,7 +40,6 @@
         1159322569,
         101751119,
         404227465,
-        1158894591,
         85683497
     ],
     "wof:breaches":[],
@@ -60,14 +59,13 @@
             "locality_id":101751119,
             "macroregion_id":404227465,
             "microhood_id":1158894371,
-            "neighbourhood_id":1158894591,
             "region_id":85683497
         }
     ],
     "wof:id":1158894371,
     "wof:lastmodified":1589586940,
     "wof:name":"Porte des Lilas",
-    "wof:parent_id":1158894591,
+    "wof:parent_id":-1,
     "wof:placetype":"microhood",
     "wof:repo":"whosonfirst-data-admin-fr",
     "wof:superseded_by":[],
